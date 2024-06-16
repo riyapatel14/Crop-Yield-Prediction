@@ -20,3 +20,7 @@ To run the app, run<br>
 <br><br>
 ![Screenshot (163)](https://github.com/jeyprabu/crop-yield-prediction-and-visualization/assets/135853635/a82442aa-e456-48ae-9f9a-5069302d1bc3)
 
+License 📝
+<br>
+This project is licensed under the MIT License.
+
